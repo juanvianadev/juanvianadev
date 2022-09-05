@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Viana</h1>
-<h3 align="center">Tenho 18 anos, Estudante de Desenvolvimento de Sistemas na Escola SENAI de Informática, e formado em Técnico em Redes de computadores</h3>
+<h3 align="center">Tenho 19 anos, Estudante de Desenvolvimento de Sistemas na Escola SENAI de Informática, e formado em Técnico em Redes de computadores</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanvianadev&label=Profile%20views&color=0e75b6&style=flat" alt="juanvianadev" /> </p>
 
