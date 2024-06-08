@@ -1,5 +1,5 @@
 <h1 align="center">Ola 👋, Meu nome e Juan Viana</h1>
-<h3 align="center">Tenho 20 anos, Estudante de Ciencia de Dados na Escola SENAI de Informática, e formado em Técnico em Redes de computadores e Desenvolvimento de Sistemas</h3>
+<h3 align="center">Tenho 21 anos, Estudante de Ciencia de Dados na Escola SENAI de Informática, e formado em Técnico em Redes de computadores e Desenvolvimento de Sistemas</h3>
 
 <h3 align="left">Redes:</h3>
 <p align="left">
